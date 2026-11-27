@@ -1,5 +1,7 @@
-{ 
-    "enabled": true, 
-    
-    "users": [206307806] 
+{
+  "enabled": true,
+  "users": [
+    206307806,
+    148129703
+  ]
 }
